@@ -3,7 +3,7 @@
 An immersive web interface that explores the synergy between **interactive design** and **minimalist aesthetics**. This project features a high-performance custom cursor implementation and a motivational tribute to **Dr. A.P.J. Abdul Kalam**, emphasizing fluid user experience (UX) and modern front-end techniques.
 
 ## 🔗 Live Deployment
-Explore the interactive experience here: **[Live Demo Link]()** 🌐
+Explore the interactive experience here: **[Live Demo Link](https://priyanshjain543.github.io/Interactive-Cursor-Task-15/)** 🌐
 
 ## 💎 Key Highlights
 
